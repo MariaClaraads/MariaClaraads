@@ -1,58 +1,45 @@
-<h1 align="center">Olá, eu sou Maria Clara Silveira 👋</h1>
-<p align="center">
+<img align="right" width="360" src="LINK_DA_IMAGEM_DO_NOTEBOOK.png">
 
-💻 Analista de Suporte Técnico • 🔐 Cibersegurança • 🎓 ADS
-</p>
-<img align="right" width="380" src="LINK_DA_IMAGEM_DO_NOTEBOOK.png">
-
-## 👩‍💻 Sobre mim
-
-💻 Analista de Suporte Técnico
+## Olá, eu sou Maria Clara Silveira 👋
 
 🎓 Formada em Análise e Desenvolvimento de Sistemas
 
-🔐 Estudante de Cibersegurança
-
 🚀 Participante do Mulheres in Digital 2026
 
-🌱 Em transição para a área de Segurança da Informação
+💻 Analista de Suporte Técnico
 
-💼 LinkedIn: www.linkedin.com/in/mariaclaradsilveira
+🔐 Em transição para a área de Cibersegurança
+
+💡 Apaixonada por tecnologia e por construir soluções que geram impacto.
+
+---
+
+## 🚀 Sobre mim
+
+Atuo há 3 anos como Analista de Suporte Técnico e sou formada em Análise e Desenvolvimento de Sistemas.
+
+Atualmente estou direcionando minha carreira para a área de Cibersegurança, aprofundando meus conhecimentos em Segurança da Informação, Gestão de Vulnerabilidades, Análise de Incidentes e boas práticas de segurança.
+
+🎯 Objetivo: construir uma carreira sólida em Segurança da Informação.
 <br clear="right"/>
 
 ---
 
 ## 🛠 Tecnologias & Ferramentas
 
-- Microsoft 365
+🔹 Microsoft 365
 
-- Azure AD (Entra ID)
+🔹 Azure AD (Entra ID)
 
-- Git
+🔹 Git
 
-- GitHub
+🔹 GitHub
 
-- Cisco
+🔹 Cisco
 
-- Redes
+🔹 Redes
 
-- Segurança da Informação
+🔹 Windows
 
----
-
-## 📚 Atualmente estudando
-
-- Gestão de Vulnerabilidades
-
-- Análise de Incidentes
-
-- Git e GitHub
-
-- Segurança da Informação
-
----
-
-## 🎯 Objetivo
-
-Atuar profissionalmente na área de Segurança da Informação e Cibersegurança.
+🔹 Segurança da Informação
  
