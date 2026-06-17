@@ -1,8 +1,12 @@
+<p align="center">
+<img src="banner.png" alt="Maria Clara" width="100%">
+</p>
+
 👋 Olá, eu sou Maria Clara Silveira
 
-💻 Analista de Suporte Técnico | 🔐 Estudante de Cibersegurança
+💻 Analista de Suporte Técnico | 🔐 Cibersegurança | ☁️ Microsoft 365 | 🖥️ Azure AD | 🌐 Infraestrutura
 
-🚀 Participante do Mulheres in Digital 2026
+🚀 Mulheres Digital 2026
 
 ⸻
 
@@ -25,24 +29,6 @@ Gestão de Vulnerabilidades
 Git e GitHub
 
 Análise de Incidentes
-
-⸻
-
-🐭 Cyber Journey
-
-🤍 White Rat
-
-Aprendendo os fundamentos.
-
-🩶 Gray Rat
-
-Explorando e evoluindo.
-
-🖤 Black Rat
-
-Pensando como atacante.
-
-⸻
 
 🌐 Conecte-se comigo
 LinkedIn
