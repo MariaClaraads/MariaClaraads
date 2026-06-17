@@ -1,21 +1,53 @@
-<img align="right" width="320" src="LINK_DA_IMAGEM_DO_NOTEBOOK">
-# Olá, eu sou Maria Clara Silveira 👋
-🎓 Formada em Análise e Desenvolvimento de Sistemas
-🚀 Participante do Mulheres in Digital 2026
-💻 Analista de Suporte Técnico
-🔐 Em transição para a área de Cibersegurança
-💡 Apaixonada por tecnologia e por construir soluções que geram impacto.
-## 🚀 Sobre mim
-Atuo há 3 anos como Analista de Suporte Técnico e sou formada em Análise e Desenvolvimento de Sistemas.
-Atualmente estou direcionando minha carreira para a área de Cibersegurança, aprofundando meus conhecimentos em Segurança da Informação, Gestão de Vulnerabilidades, Análise de Incidentes e boas práticas de segurança.
-🎯 Objetivo: construir uma carreira sólida em Segurança da Informação.
-<br clear="right"/>
-## 🛠 Tecnologias & Ferramentas
-🔹 Microsoft 365
-🔹 Azure AD (Entra ID)
-🔹 Git
-🔹 GitHub
-🔹 Cisco
-🔹 Redes
-🔹 Windows
-🔹 Segurança da Informação
+<div align="left">
+<table>
+<tr>
+<td width="55%" valign="top">
+<h3>Olá, eu sou</h3>
+<h1>
+
+Maria Clara Silveira 👋
+</h1>
+<p>💻 Analista de Suporte Técnico</p>
+<p>🎓 Formada em Análise e Desenvolvimento de Sistemas</p>
+<p>🔐 Estudante de Cibersegurança</p>
+<p>🚀 Participante do Mulheres in Digital 2026</p>
+<p>🌱 Em transição para a área de Segurança da Informação</p>
+</td>
+<td width="45%" align="center">
+<img src="LINK_DA_IMAGEM_DO_NOTEBOOK" width="360"/>
+</td>
+</tr>
+</table>
+</div>
+<br>
+
+## 👩‍💻 Sobre mim
+
+Sou formada em Análise e Desenvolvimento de Sistemas e atuo há 3 anos como Analista de Suporte Técnico.
+
+Atualmente estou direcionando minha carreira para a área de Cibersegurança, aprofundando meus conhecimentos em Segurança da Informação, Gestão de Vulnerabilidades, Análise de Incidentes e Boas Práticas de Segurança.
+
+🎯 **Objetivo:** atuar profissionalmente na área de Segurança da Informação.
+
+---
+
+## 🛠️ Tecnologias & Ferramentas
+<p align="center">
+<img src="https://skillicons.dev/icons?i=windows" />
+<img src="https://skillicons.dev/icons?i=git" />
+<img src="https://skillicons.dev/icons?i=github" />
+<img src="https://skillicons.dev/icons?i=vscode" />
+</p>
+<p align="center">
+
+Microsoft 365 • Azure AD • Cisco • Redes • Segurança da Informação
+</p>
+
+---
+
+## 📊 Estatísticas GitHub
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MariaClaraads&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaClaraads&layout=compact&theme=tokyonight"/>
+</p>
+ 
