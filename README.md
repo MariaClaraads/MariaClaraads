@@ -3,6 +3,7 @@
 <h3>Maria Clara Silveira 👋</h3>
 <div></div>
 
+<br>
 <p>💻 Analista de Suporte Técnico</p>
 <p>🎓 Formada em Análise e Desenvolvimento de Sistemas</p>
 <p>🔐 Estudante de Cibersegurança</p>
