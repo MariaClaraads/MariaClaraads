@@ -16,7 +16,7 @@ Atualmente estou direcionando minha carreira para a área de Cibersegurança, ap
 
 🎯 **Objetivo:** atuar profissionalmente na área de Segurança da Informação.
 
----
+
 
 ## 🛠️ Tecnologias & Ferramentas
 <p align="center">
