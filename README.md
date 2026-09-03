@@ -1,6 +1,6 @@
 <img align="right" width="360" src="LINK_DA_IMAGEM_DO_NOTEBOOK.png" hspace="20">
 <h3>Olá, eu sou</h3>
-<strong>Maria Clara Silveira 👋</strong></p>
+<div style="font-size: 32px; font-weight: bold;">>Maria Clara Silveira 👋</div>
 <p>💻 Analista de Suporte Técnico</p>
 <p>🎓 Formada em Análise e Desenvolvimento de Sistemas</p>
 <p>🔐 Estudante de Cibersegurança</p>
