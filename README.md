@@ -30,7 +30,7 @@ Atualmente estou direcionando minha carreira para a área de Cibersegurança, ap
 Microsoft 365 • Azure AD • Cisco • Redes • Segurança da Informação
 </p>
 
----
+
 
 ## 📊 Estatísticas GitHub
 <p align="center">
